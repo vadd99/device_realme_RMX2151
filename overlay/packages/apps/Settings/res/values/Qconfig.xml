@@ -37,5 +37,7 @@
     <string name="config_batChargeCycle">/sys/class/power_supply/battery/cycle_count</string>
     <string name="config_batDesCap">/sys/class/power_supply/battery/charge_full_design</string>
     <string name="config_batCurCap">/sys/class/power_supply/battery/charge_full</string>
+    <!-- ROM Maintainer strings -->
+    <string name="maintainer_name">vadd</string> <!-- Nusantara Project -->
 
 </resources>
